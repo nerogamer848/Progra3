@@ -1,1 +1,2 @@
-﻿Console.WriteLine("chipi chipi chapa chapa")
+﻿Console.WriteLine("Erick estubo aqui")
+Console.WriteLine("Dubi Dubi Daba Daba")
