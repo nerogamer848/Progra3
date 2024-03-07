@@ -1,1 +1,7 @@
-﻿Console.WriteLine("chipi chipi chapa chapa")
+﻿Console.WriteLine("elay");
+Console.WriteLine("elay");
+Console.WriteLine("elay");
+Console.WriteLine("elay");
+Console.WriteLine("elay");
+Console.WriteLine("elay");
+Console.WriteLine("elay");
